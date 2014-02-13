@@ -350,7 +350,6 @@ layout () {
 <head>
     <meta http-equiv='content-type' content='text/html;charset=utf-8'>
     <title>$1</title>
-    <link rel="stylesheet" media="all" href="http://jashkenas.github.io/docco/public/stylesheets/normalize.css" />
     <link rel="stylesheet" media="all" href="http://jashkenas.github.io/docco/resources/linear/docco.css" />
     <link rel="stylesheet" media="all" href="https://raw.github.com/abesto/shocco/master/css/pygmentize-github.css" />
 </head>
