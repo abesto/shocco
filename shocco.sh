@@ -352,7 +352,7 @@ layout () {
     <title>$1</title>
     <link rel="stylesheet" media="all" href="http://jashkenas.github.io/docco/public/stylesheets/normalize.css" />
     <link rel="stylesheet" media="all" href="http://jashkenas.github.io/docco/resources/linear/docco.css" />
-    <link rel="stylesheet" media="all" href="http://raw.github.com/abesto/shocco/master/css/pygments-github.css" />
+    <link rel="stylesheet" media="all" href="https://raw.github.com/abesto/shocco/master/css/pygmentize-github.css" />
 </head>
 <body>
 <div class="container">
